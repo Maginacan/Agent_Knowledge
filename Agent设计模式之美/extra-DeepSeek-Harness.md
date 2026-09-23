@@ -1,4 +1,4 @@
----
+﻿---
 title: "DeepSeek Harness (dsh) 全插件化架构的组合、执行与记录"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -15,11 +15,11 @@ publish_date: "2026-08-17"
 course_progress: "29+/43"
 pattern_position: "反思模式组·热点加餐"
 related:
-  - "[[lession6-逆向五步法（下）]]"
+  - "[[lession5-逆向五步法（下）]]"
   - "[[lession7-Loop-Engineering]]"
-  - "[[lession23-行动模块导论]]"
-  - "[[lession24-工具调度]]"
-  - "[[lession28-反思模块导论]]"
+  - "[[lession21-行动模块导论]]"
+  - "[[lession22-工具调度]]"
+  - "[[lession26-反思模块导论]]"
 ---
 
 # DeepSeek Harness (dsh) 全插件化架构的组合、执行与记录

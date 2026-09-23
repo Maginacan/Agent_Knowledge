@@ -1,4 +1,4 @@
----
+﻿---
 title: "23｜规划执行：用全局计划约束局部恢复"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -15,10 +15,10 @@ publish_date: "2026-07-27"
 course_progress: "23/43"
 pattern_position: "行动模式组·第 3 个"
 related:
-  - "[[lession23-行动模块导论]]"
-  - "[[lession24-工具调度]]"
-  - "[[lession26-提示链]]"
-  - "[[lession16-进度追踪]]"
+  - "[[lession21-行动模块导论]]"
+  - "[[lession22-工具调度]]"
+  - "[[lession24-提示链]]"
+  - "[[lession14-进度追踪]]"
 ---
 
 # 23｜规划执行：用全局计划约束局部恢复

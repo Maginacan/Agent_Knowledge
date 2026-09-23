@@ -1,4 +1,4 @@
----
+﻿---
 title: "28｜技能包：从成功轨迹到可验证能力"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -15,12 +15,12 @@ publish_date: "2026-08-13"
 course_progress: "28/43"
 pattern_position: "反思模式组·第 3 个"
 related:
-  - "[[lession28-反思模块导论]]"
-  - "[[lession29-生成评审]]"
+  - "[[lession26-反思模块导论]]"
+  - "[[lession27-生成评审]]"
   - "[[lession31-经验回放]]"
   - "[[lession32-自愈循环]]"
-  - "[[lession13-记忆模块导论]]"
-  - "[[lession17-失败日记]]"
+  - "[[lession11-记忆模块导论]]"
+  - "[[lession15-失败日记]]"
 ---
 
 # 28｜技能包：从成功轨迹到可验证能力

@@ -1,4 +1,4 @@
----
+﻿---
 title: "27｜生成评审：让每个版本独立接受审查"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -15,10 +15,10 @@ publish_date: "2026-08-10"
 course_progress: "27/43"
 pattern_position: "反思模式组·第 2 个"
 related:
-  - "[[lession28-反思模块导论]]"
+  - "[[lession26-反思模块导论]]"
   - "[[lession30-技能包]]"
-  - "[[lession27-护栏三明治]]"
-  - "[[lession19-思维链]]"
+  - "[[lession25-护栏三明治]]"
+  - "[[lession17-思维链]]"
 ---
 
 # 27｜生成评审：让每个版本独立接受审查

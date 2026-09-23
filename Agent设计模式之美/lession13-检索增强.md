@@ -1,4 +1,4 @@
----
+﻿---
 title: "13｜检索增强：Agent 的知识库和证据链"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -22,8 +22,8 @@ course_progress: 13
 pattern_position: "记忆 × 链式 (Naive RAG) / 记忆 × 循环 (Agentic RAG)"
 module: "记忆：沉淀之美（第 3 讲 / 共 5 讲）"
 related:
-  - "[[lession14-分层保留]]"
-  - "[[lession16-进度追踪]]"
+  - "[[lession12-分层保留]]"
+  - "[[lession14-进度追踪]]"
 ---
 
 # 13｜检索增强：Agent 的知识库和证据链
@@ -37,8 +37,8 @@ related:
 | 双轴坐标 | Naive RAG = **记忆 × 链式**；Agentic RAG = **记忆 × 循环** |
 | 时长 | 27:49 |
 | 发布日期 | 2026-06-23 |
-| 前置讲 | [[lession14-分层保留]] — 货架怎么搭 |
-| 后续讲 | [[lession16-进度追踪]] — "录" |
+| 前置讲 | [[lession12-分层保留]] — 货架怎么搭 |
+| 后续讲 | [[lession14-进度追踪]] — "录" |
 
 ## 一句话核心
 
@@ -758,7 +758,7 @@ class RetrievalTrace:                # I 一次检索的完整留痕
 >
 > 导论里那个 **auth.py 重构事故，真正对症的药就在下一讲**。
 
-→ [[lession16-进度追踪]]
+→ [[lession14-进度追踪]]
 
 ---
 

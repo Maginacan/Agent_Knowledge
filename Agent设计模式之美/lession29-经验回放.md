@@ -1,4 +1,4 @@
----
+﻿---
 title: "29｜经验回放：让经验在复用中持续校准"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -15,11 +15,11 @@ publish_date: "2026-08-17"
 course_progress: "29/43"
 pattern_position: "反思模式组·第 4 个"
 related:
-  - "[[lession28-反思模块导论]]"
+  - "[[lession26-反思模块导论]]"
   - "[[lession30-技能包]]"
   - "[[lession32-自愈循环]]"
-  - "[[lession17-失败日记]]"
-  - "[[lession13-记忆模块导论]]"
+  - "[[lession15-失败日记]]"
+  - "[[lession11-记忆模块导论]]"
 ---
 
 # 29｜经验回放：让经验在复用中持续校准

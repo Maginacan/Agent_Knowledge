@@ -1,4 +1,4 @@
----
+﻿---
 title: "25｜护栏三明治：高风险行动的前中后防线"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -15,11 +15,11 @@ publish_date: "2026-08-03"
 course_progress: "25/43"
 pattern_position: "行动模式组·第 5 个（收官）"
 related:
-  - "[[lession23-行动模块导论]]"
-  - "[[lession24-工具调度]]"
-  - "[[lession25-规划执行]]"
-  - "[[lession26-提示链]]"
-  - "[[lession28-反思模块导论]]"
+  - "[[lession21-行动模块导论]]"
+  - "[[lession22-工具调度]]"
+  - "[[lession23-规划执行]]"
+  - "[[lession24-提示链]]"
+  - "[[lession26-反思模块导论]]"
 ---
 
 # 25｜护栏三明治：高风险行动的前中后防线

@@ -1,4 +1,4 @@
----
+﻿---
 title: "19｜并行探索：一题多解，择优录取"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -15,10 +15,10 @@ publish_date: "2026-07-13"
 course_progress: "19/43"
 pattern_position: "推理模式组·第 4 个"
 related:
-  - "[[lession18-推理模块导论]]"
-  - "[[lession19-思维链]]"
-  - "[[lession20-复杂度路由]]"
-  - "[[lession22-迭代假设验证]]"
+  - "[[lession16-推理模块导论]]"
+  - "[[lession17-思维链]]"
+  - "[[lession18-复杂度路由]]"
+  - "[[lession20-迭代假设验证]]"
 ---
 
 # 19｜并行探索：一题多解，择优录取
