@@ -1,4 +1,4 @@
----
+﻿---
 title: "33｜扇出聚合：让多路证据保留差异再汇成结论"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -16,11 +16,11 @@ publish_date: "2026-09-03"
 course_progress: "33/43"
 pattern_position: "协作模式组·第 3 个"
 related:
-  - "[[lession35-层级委派]]"
-  - "[[lession34-协作模块导论]]"
+  - "[[lession32-层级委派]]"
+  - "[[lession31-协作模块导论]]"
   - "[[lession19-并行探索]]"
   - "[[lession28-技能包]]"
-  - "[[lession33-自愈循环]]"
+  - "[[lession30-自愈循环]]"
 ---
 
 # 33｜扇出聚合：让多路证据保留差异再汇成结论

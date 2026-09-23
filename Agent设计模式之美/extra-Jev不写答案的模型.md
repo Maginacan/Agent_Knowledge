@@ -1,4 +1,4 @@
----
+﻿---
 title: "热点加餐｜Jev：不写答案的模型，怎样参与 Agent 设计？"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -21,7 +21,7 @@ related:
   - "[[lession18-复杂度路由]]"
   - "[[lession27-生成评审]]"
   - "[[lession29-经验回放]]"
-  - "[[lession40-审批门]]"
+  - "[[lession37-审批门]]"
 ---
 
 # 热点加餐｜Jev：不写答案的模型，怎样参与 Agent 设计？

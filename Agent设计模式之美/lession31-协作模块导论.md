@@ -1,4 +1,4 @@
----
+﻿---
 title: "31｜协作模块导论：人一多，就需要把边界说清楚"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -17,7 +17,7 @@ course_progress: "31/43"
 pattern_position: "协作模式组·第 1 个（开篇）"
 related:
   - "[[lession26-反思模块导论]]"
-  - "[[lession33-自愈循环]]"
+  - "[[lession30-自愈循环]]"
   - "[[lession31-经验回放]]"
   - "[[lession14-进度追踪]]"
   - "[[lession21-行动模块导论]]"

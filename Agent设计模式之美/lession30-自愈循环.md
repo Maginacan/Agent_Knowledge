@@ -1,4 +1,4 @@
----
+﻿---
 title: "30｜自愈循环：让自动修复在边界内收敛"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -19,7 +19,7 @@ related:
   - "[[lession29-生成评审]]"
   - "[[lession30-技能包]]"
   - "[[lession31-经验回放]]"
-  - "[[lession32-DeepSeek-Harness]]"
+  - "[[extra-DeepSeek-Harness]]"
 ---
 
 # 30｜自愈循环：让自动修复在边界内收敛

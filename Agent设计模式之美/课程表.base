@@ -1,0 +1,91 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.inFolder("Agent设计模式之美")
+    - file.name != "0-课程总览.md"
+    - or:
+        - file.name.contains("lession")
+        - file.name.contains("extra")
+formulas:
+  发布日期: if(publish_date, publish_date, if(created, created, ""))
+  时长: if(duration, duration, if(audio.duration, audio.duration, ""))
+  模式组: if(pattern_position, pattern_position, "未分类")
+  节号: if(course_progress, course_progress, "加餐")
+  简短标题: if(title, title, file.name)
+properties:
+  file.name:
+    displayName: 文件名
+  title:
+    displayName: 标题
+  formula.节号:
+    displayName: 节号
+  formula.时长:
+    displayName: 时长
+  formula.发布日期:
+    displayName: 发布日期
+  formula.模式组:
+    displayName: 模式组
+  source:
+    displayName: 原文链接
+  pattern_position:
+    displayName: 课程定位
+views:
+  - type: table
+    name: 按模式组
+    filters: formula.模式组 != "未分类"
+    groupBy:
+      property: formula.模式组
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - formula.节号
+      - formula.时长
+      - formula.发布日期
+    limit: 50
+  - type: table
+    name: 按节号
+    order:
+      - formula.节号
+      - file.name
+      - title
+      - formula.时长
+      - formula.发布日期
+    limit: 50
+  - type: table
+    name: 加餐
+    filters: formula.节号 == "加餐"
+    order:
+      - file.name
+      - title
+      - formula.时长
+    limit: 20
+  - type: table
+    name: 本次新增
+    filters:
+      or:
+        - formula.模式组 == "协作：合鸣之美·第 1 个（开篇）"
+        - formula.模式组 == "协作：合鸣之美·第 2 个"
+        - formula.模式组 == "协作：合鸣之美·第 3 个"
+        - formula.模式组 == "协作：合鸣之美·第 4 个"
+        - formula.模式组 == "协作：合鸣之美·第 5 个（收官）"
+        - formula.模式组 == "治理：守正之美·第 1 个（开篇）"
+        - formula.模式组 == "治理：守正之美·第 2 个（收官）"
+        - formula.模式组 == "热点加餐（不属于主模块编号）"
+    order:
+      - file.name
+      - title
+      - formula.节号
+    limit: 20
+  - type: cards
+    name: 卡片浏览
+    order:
+      - title
+      - formula.节号
+      - formula.时长
+    limit: 50
+  - type: list
+    name: 精简列表
+    order:
+      - file.name
+    limit: 50

@@ -1,4 +1,4 @@
----
+﻿---
 title: "32｜层级委派：把大目标拆成可验收的责任"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -16,9 +16,9 @@ publish_date: "2026-09-01"
 course_progress: "32/43"
 pattern_position: "协作模式组·第 2 个"
 related:
-  - "[[lession34-协作模块导论]]"
+  - "[[lession31-协作模块导论]]"
   - "[[lession26-反思模块导论]]"
-  - "[[lession33-自愈循环]]"
+  - "[[lession30-自愈循环]]"
   - "[[lession21-行动模块导论]]"
   - "[[lession24-工具调度]]"
 ---

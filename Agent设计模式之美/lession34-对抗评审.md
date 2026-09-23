@@ -1,4 +1,4 @@
----
+﻿---
 title: "34｜对抗评审：让独立异议真正约束结果"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -16,11 +16,11 @@ publish_date: "2026-09-08"
 course_progress: "34/43"
 pattern_position: "协作模式组·第 4 个"
 related:
-  - "[[lession36-扇出聚合]]"
-  - "[[lession35-层级委派]]"
+  - "[[lession33-扇出聚合]]"
+  - "[[lession32-层级委派]]"
   - "[[lession27-生成评审]]"
   - "[[lession28-技能包]]"
-  - "[[lession33-自愈循环]]"
+  - "[[lession30-自愈循环]]"
 ---
 
 # 34｜对抗评审：让独立异议真正约束结果

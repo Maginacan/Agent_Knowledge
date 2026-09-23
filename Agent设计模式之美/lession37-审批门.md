@@ -1,4 +1,4 @@
----
+﻿---
 title: "37｜审批门：让批准只对这一项动作有效"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -16,11 +16,11 @@ publish_date: "2026-09-17"
 course_progress: "37/43"
 pattern_position: "治理模式组·第 2 个（收官）"
 related:
-  - "[[lession39-治理模块导论]]"
-  - "[[lession38-交接链]]"
+  - "[[lession36-治理模块导论]]"
+  - "[[lession35-交接链]]"
   - "[[lession25-护栏三明治]]"
-  - "[[lession37-对抗评审]]"
-  - "[[lession35-层级委派]]"
+  - "[[lession34-对抗评审]]"
+  - "[[lession32-层级委派]]"
 ---
 
 # 37｜审批门：让批准只对这一项动作有效

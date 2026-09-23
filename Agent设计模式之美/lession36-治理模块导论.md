@@ -1,4 +1,4 @@
----
+﻿---
 title: "36｜治理模块导论：把边界写清楚，才敢把事交出去"
 column: "Agent 设计模式之美"
 author: "黄佳"
@@ -16,11 +16,11 @@ publish_date: "2026-09-15"
 course_progress: "36/43"
 pattern_position: "治理模式组·第 1 个（开篇）"
 related:
-  - "[[lession38-交接链]]"
-  - "[[lession35-层级委派]]"
+  - "[[lession35-交接链]]"
+  - "[[lession32-层级委派]]"
   - "[[lession25-护栏三明治]]"
   - "[[lession21-行动模块导论]]"
-  - "[[lession37-对抗评审]]"
+  - "[[lession34-对抗评审]]"
 ---
 
 # 36｜治理模块导论：把边界写清楚，才敢把事交出去
